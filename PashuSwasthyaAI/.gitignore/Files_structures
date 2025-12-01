@@ -1,3 +1,8 @@
+__pycache__/
+venv/
+*.npz
+*.pkl
+
 # Model files and large binaries
   1. animal_encoder.pkl
   2. disease_encoder.pkl
