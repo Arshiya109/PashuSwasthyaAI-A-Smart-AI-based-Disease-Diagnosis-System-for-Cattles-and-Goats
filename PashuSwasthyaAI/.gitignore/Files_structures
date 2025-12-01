@@ -1,0 +1,7 @@
+# Model files and large binaries
+  1. animal_encoder.pkl
+  2. disease_encoder.pkl
+  3. precomputed_symptoms.npz
+  4. trained_model.pkl
+  5. xgb_vet_model.pkl
+
